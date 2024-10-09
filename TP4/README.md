@@ -1,11 +1,12 @@
 ## Relatório da TP4
-## Data: 24/10/02
-## Autor: Tiago Maia a107203
-Resumo
-O TP4 consistiu na resolução  de exercicios com ciclos e definição de funções. Tentamos também resolver os vários exercicios de varias formas, de modo a
-treinar a logica de programação.
+# Data: 24/10/02
+# Autor: Tiago Maia a107203
+# Resumo
+O TP4 consistiu na resolução de exercícios com ciclos e definição de funções e do treino de vários tipos de maneiras de resolver o mesmo exercício.
 
-Para além disso tivemos o TPC que consistiu na realização de um menu, no qual:
-As duas primeiras opções seriam a criação de uma lista, a 1ª seria o computador a criar a lista de tamanho definido pelo usuário e a 2ª, uma lista completamente definida pelo usuário;
-As restantes opções apresentaram uma serie de ações com a lista (soma, média, maior, menor, crescente, decrescente e posição de um elemento);
-O menu teria de se repetir até o utilizador selecionar a opção sair.
+* O TPC que consistiu na realização de um menu, no qual:
+* As duas primeiras opções seriam a criação de uma lista:
+* * 1ª seria o computador a criar a lista de tamanho definido pelo usuário
+* * 2ª seria uma lista completamente definida pelo usuário;
+* As restantes opções apresentaram uma serie de ações utilizando funções feitas na TP;
+* O menu teria de reaparecer até o utilizador selecionar a opção de sair.
