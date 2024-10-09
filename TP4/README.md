@@ -1,7 +1,7 @@
-## Relatório da TP4
-# Data: 24/10/02
-# Autor: Tiago Maia a107203
-# Resumo
+# Relatório da TP4
+## Data: 24/10/02
+## Autor: Tiago Maia a107203
+## Resumo
 O TP4 consistiu na resolução de exercícios com ciclos e definição de funções e do treino de vários tipos de maneiras de resolver o mesmo exercício.
 
 * O TPC que consistiu na produção de um menu, no qual:
