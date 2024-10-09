@@ -1,6 +1,6 @@
-##Relatório da TP4
-Data: 24/10/02
-Autor: Dinis Pereira a107199
+## Relatório da TP4
+## Data: 24/10/02
+## Autor: Tiago Maia a107203
 Resumo
 O TP4 consistiu na resolução  de exercicios com ciclos e definição de funções. Tentamos também resolver os vários exercicios de varias formas, de modo a
 treinar a logica de programação.
