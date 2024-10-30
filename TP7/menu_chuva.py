@@ -12,6 +12,7 @@ def menu():
     0- Sair
             ----------------------------""")
     
+tabMeteo1 = [((2022,1,20), 2, 16, 0),((2022,1,21), 1, 13, 0.2), ((2022,1,22), 7, 17, 0.01)]
 
 def medias(tabMeteo):
     res = []
@@ -80,7 +81,7 @@ def maxPeriodoCalor(tabMeteo, p):
     consecutivos= 0
     consecutivos_global= 0
     for dias in tabMeteo:
-        if tabMeteo[3] < p:
+        if dias[3] < p:
             consecutivos = consecutivos + 1
         else:
             if consecutivos > consecutivos_global:
@@ -146,4 +147,5 @@ while op != "0":
         print(f"O maior númerode dias consecutivos com pluviosidade abaixo de {p} foi {maxPeriodoCalor(tabMeteo1, p)}")
     elif op == "9":
         grafTabMeteo(tabMeteo1)
+    op= input("Introduza a opção que quer:")
 print("Volte sempre!!")
