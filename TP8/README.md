@@ -4,4 +4,4 @@
 ## Resumo
 A TP8 consistiu na consolidação da matéria que foi dada até ao momento.
 O TPC desta semana consistiu na resolução de 3 TPC's diferentes:
-* 
+* O primeiro 
