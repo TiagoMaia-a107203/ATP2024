@@ -60,7 +60,7 @@ def buscarficheiro(turma, nome_ficheiro):
     for linha in file:
         campos = linha.split("|")
         campos1 = [int(campos[2]), int(campos[3]), int(campos[4])]
-        aluno = (campos[0], campos[1], campos)
+        aluno = (campos[0], campos[1], campos1)
         turma.append(aluno)
     return turma
 
